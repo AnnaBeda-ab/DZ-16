@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Use tests automation">
+    <test name="API all tests">
+
+        <classes>
+            <class name="testsNew.RestTestNew"></class>
+        </classes>
+    </test>
+</suite>
